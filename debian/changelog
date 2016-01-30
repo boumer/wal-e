@@ -1,3 +1,9 @@
+wal-e-snapshot (2016012901-0heroku1~precise) precise; urgency=medium
+
+  * Re-enable tablespace support.
+
+ -- Timothée Peignier <tim@heroku.com>  Mon, 29 Jan 2016 18:03:07 -0800
+
 wal-e-snapshot (2016011801-0heroku1~precise) precise; urgency=medium
 
   * Increment version to test new package building pipeline
